@@ -24,8 +24,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 /*
 ```
-Developed by:Akash B
-Registeration Number : 212222040004
+Developed by:Sanjay A
+Registeration Number : 212221040145
 ```
 */
 
